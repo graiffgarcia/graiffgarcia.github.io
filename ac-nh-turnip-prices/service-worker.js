@@ -1,10 +1,10 @@
 // PWA Code adapted from https://github.com/pwa-builder/PWABuilder
 const CACHE = "pwa-precache-v1";
 const precacheFiles = [
-  "/index.html",
-  "/js/predictions.js",
-  "/js/scripts.js",
-  "/css/styles.css",
+  "index.html",
+  "js/predictions.js",
+  "js/scripts.js",
+  "css/styles.css",
   "https://code.jquery.com/jquery-3.4.1.min.js",
 ];
 
